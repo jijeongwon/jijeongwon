@@ -40,7 +40,7 @@
     • 정보처리기사 필기 <br>
     • ADsP (데이터분석 준전문가) <br>
     • Microsoft Certified: AI Fundementals (AI-900) <br>
-    • ITQ (한글엑셀, 아래한글, 파워포인트) <br>
+    • ITQ A등급 (한글엑셀, 아래한글, 파워포인트) <br>
     • MOS Expert (Excel, PowerPoint) <br>
     • GTQ 그래픽기술자격 (1급, 2급) <br>
 </ol>
