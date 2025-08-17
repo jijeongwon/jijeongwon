@@ -38,7 +38,7 @@
     <h3> 📚 Certification </h3>
 <ol>
     • 정보처리기사 필기 <br>
-    • ADsP (데이터분석 준전문가) <br>
+    • ADsP <br>
     • Microsoft Certified: AI Fundementals (AI-900) <br>
     • MOS Expert (Excel, PowerPoint) <br>
     • GTQ 그래픽기술자격 (1급, 2급) <br>
