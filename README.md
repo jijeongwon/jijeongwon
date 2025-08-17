@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 건양대학교 4학년 ·  의료인공지능학과 </div>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> AI for Public Safety · Copmuter Vision · Data Analysis · Machine Learning </div>
     <div align= "left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Research Activities and Awards</h2> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡Research Activities and Awards</h2> 
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
     <h3>📄 Paper</h3>
 <ol>
@@ -30,12 +30,20 @@
 </ol>
     <h3> 🏆 Competition Participation </h3>
 <ol>
-    • <strong>DACON 생성 AI의 가짜 음성 검출 및 탐지 AI 모델 개발 대회</strong>(2024) │ <strong>private 상위 7%</strong> <br>
+    • <strong>DACON 생성 AI의 가짜 음성 검출 및 탐지 AI 모델 개발 경진대회</strong>(2024) │ <strong>private 상위 7%</strong> <br>
     • <strong>DACON 이미지 색상화 및 손실 부분 복원 AI 경진대회</strong>(2024) │ <strong>private 상위 8%</strong> <br>
     • DACON 건설공사 사고 예방 대응책 생성 AI 경진대회</strong>(2025) │ public 상위 5% <br>
-    • <strong>DACON 생성 AI의 가짜 음성 검출 및 탐지 AI 모델 개발 대회</strong>(2024) │ private 상위 7% <br>
+    • DACON 생성 AI로 작성된 Text일 확률 예측 AI 모델 개발 경진대회</strong>(2024) │ public 상위 25% <br>
 </ol>
     <h3> 📚 Certification </h3>
+<ol>
+    • 정보처리기사 필기 <br>
+    • ADsP (데이터분석 준전문가) <br>
+    • Microsoft Certified: AI Fundementals (AI-900) <br>
+    • ITQ (한글엑셀, 아래한글, 파워포인트) <br>
+    • MOS Expert (Excel, PowerPoint) <br>
+    • GTQ 그래픽기술자격 (1급, 2급) <br>
+</ol>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️</h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white">
