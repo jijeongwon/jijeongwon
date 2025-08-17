@@ -10,26 +10,31 @@
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
     <h3>📄 Paper</h3>
 <ol>
-  <li><strong>합성 데이터를 활용한 머신러닝 모델의 의료 보험료 예측 최적화</strong> │ 1저자<br>
-    <sub>2024.11 │ 한국인공지능융합기술학회(KAICTS) 추계학술대회</sub>
-  </li>
-  <li><strong>흑백 이미지 복원을 위한 Stable Diffusion 및 GAN 기반 하이브리드 프레임워크</strong> │ 공동 1저자<br>
-    <sub>2025.01 │ 한국소프트웨어공학(KCSE) 학술대회</sub>
-  </li>
-  <li><strong>가상 피팅 모델 ACGPN의 입력 특징 추출 기법 비교: Otsu Mask vs. Salient Region</strong> │ 공동 1저자<br>
+  • <strong>합성 데이터를 활용한 머신러닝 모델의 의료 보험료 예측 최적화</strong> │ 1저자<br>
+    <sub>2024.11 │ 한국인공지능융합기술학회(KAICTS) 추계학술대회</sub> <br>
+  • <strong>흑백 이미지 복원을 위한 Stable Diffusion 및 GAN 기반 하이브리드 프레임워크</strong> │ 공동 1저자<br>
+    <sub>2025.01 │ 한국소프트웨어공학(KCSE) 학술대회</sub> <br>
+  • <strong>가상 피팅 모델 ACGPN의 입력 특징 추출 기법 비교: Otsu Mask vs. Salient Region</strong> │ 공동 1저자<br>
     <sub>2025.05 │ 한국인공지능융합기술학회(KAICTS) 춘계학술대회</sub>
-  </li>
 </ol>
     <h3> 🏅 Award </h3>
-    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2024.11 │ 마이크로소프트 클라우드를 활용한 인공지능 서비스 개발 경진대회 │ 장려상 │ 인공지능기술교육협의회x한국마이크로소프트 주관 </div>
-    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2024.11 │ AWS DeepRacer를 활용한 인공지능 강화학습 기반의 자율주행 자동차 AI 융합경진대회 │ 팀전 1등, 개인전 2등 │ AI.SW 융합대학 주관 </div>
-    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2025.05 │ 한국인공지능융합기술학회(KAICTS) 춘계학술대회 │ 우수 발표 논문상 │ 한국인공지능융합기술학회 주관 </div>
-    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2025.05 │ WCRC 쿠팡 물류로봇경진대회 │ 국회의원 우수상 (우재준 국회의원) │ 과학기술정보통신부 주관 </div>
+<ol>
+    • <strong>마이크로소프트 클라우드를 활용한 인공지능 서비스 개발 경진대회</strong> │ 장려상 <br>
+    <sub>2024.11 │ 인공지능기술교육협의회x한국마이크로소프트 주관</sub> <br>
+    • <strong>AWS DeepRacer를 활용한 인공지능 강화학습 기반의 자율주행 자동차 AI 융합경진대회</strong> │ 팀전 1등, 개인전 2등 <br>
+    <sub>2024.11 │ AI.SW 융합대학 주관</sub> <br>
+    • <strong>한국인공지능융합기술학회(KAICTS) 춘계학술대회</strong> │ 우수 발표 논문상 <br>
+    <sub>2025.05 │ 한국인공지능융합기술학회 주관</sub> <br>
+    • <strong>WCRC 쿠팡 물류로봇경진대회</strong> │ 국회의원 우수상 (우재준 국회의원) <br>
+    <sub>2025.05 │ 과학기술정보통신부 주관</sub> <br>
+</ol>
     <h3> 🏆 Competition Participation </h3>
-    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2024.07 │ 마이크로소프트 클라우드를 활용한 인공지능 서비스 개발 경진대회 │ 장려상 │ 인공지능기술교육협의회x한국마이크로소프트 주관 </div>
-    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2024.12 │ AWS DeepRacer를 활용한 인공지능 강화학습 기반의 자율주행 자동차 AI 융합경진대회 │ 팀전 1등, 개인전 2등 │ AI.SW 융합대학 주관 </div>
-    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2025.03 │ 한국인공지능융합기술학회(KAICTS) 춘계학술대회 │ 우수 발표 논문상 │ 한국인공지능융합기술학회 주관 </div>
-    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2025.07 │ WCRC 쿠팡 물류로봇경진대회 │ 국회의원 우수상 (우재준 국회의원) │ 과학기술정보통신부 주관 </div>
+<ol>
+    • <strong>DACON 생성 AI의 가짜 음성 검출 및 탐지 AI 모델 개발 대회</strong>(2024) │ <strong>private 상위 7%</strong> <br>
+    • <strong>DACON 이미지 색상화 및 손실 부분 복원 AI 경진대회</strong>(2024) │ <strong>private 상위 8%</strong> <br>
+    • DACON 건설공사 사고 예방 대응책 생성 AI 경진대회</strong>(2025) │ public 상위 5% <br>
+    • <strong>DACON 생성 AI의 가짜 음성 검출 및 탐지 AI 모델 개발 대회</strong>(2024) │ private 상위 7% <br>
+</ol>
     <h3> 📚 Certification </h3>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️</h2> <br> 
