@@ -6,11 +6,31 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 건양대학교 4학년 ·  의료인공지능학과 </div>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> AI for Public Safety · Copmuter Vision · Data Analysis · Machine Learning </div>
     <div align= "left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 연구 내용 및 수상 경력</h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Research Activities and Awards</h2> 
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 📄 논문 </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 🏅 수상 </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 🏆 대회 </div>
+    <h3>📄 Paper</h3>
+<ol>
+  <li><strong>합성 데이터를 활용한 머신러닝 모델의 의료 보험료 예측 최적화</strong> │ 1저자<br>
+    <sub>2024.11 │ 한국인공지능융합기술학회(KAICTS) 추계학술대회</sub>
+  </li>
+  <li><strong>흑백 이미지 복원을 위한 Stable Diffusion 및 GAN 기반 하이브리드 프레임워크</strong> │ 공동 1저자<br>
+    <sub>2025.01 │ 한국소프트웨어공학(KCSE) 학술대회</sub>
+  </li>
+  <li><strong>가상 피팅 모델 ACGPN의 입력 특징 추출 기법 비교: Otsu Mask vs. Salient Region</strong> │ 공동 1저자<br>
+    <sub>2025.05 │ 한국인공지능융합기술학회(KAICTS) 춘계학술대회</sub>
+  </li>
+</ol>
+    <h3> 🏅 Award </h3>
+    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2024.11 │ 마이크로소프트 클라우드를 활용한 인공지능 서비스 개발 경진대회 │ 장려상 │ 인공지능기술교육협의회x한국마이크로소프트 주관 </div>
+    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2024.11 │ AWS DeepRacer를 활용한 인공지능 강화학습 기반의 자율주행 자동차 AI 융합경진대회 │ 팀전 1등, 개인전 2등 │ AI.SW 융합대학 주관 </div>
+    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2025.05 │ 한국인공지능융합기술학회(KAICTS) 춘계학술대회 │ 우수 발표 논문상 │ 한국인공지능융합기술학회 주관 </div>
+    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2025.05 │ WCRC 쿠팡 물류로봇경진대회 │ 국회의원 우수상 (우재준 국회의원) │ 과학기술정보통신부 주관 </div>
+    <h3> 🏆 Competition Participation </h3>
+    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2024.07 │ 마이크로소프트 클라우드를 활용한 인공지능 서비스 개발 경진대회 │ 장려상 │ 인공지능기술교육협의회x한국마이크로소프트 주관 </div>
+    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2024.12 │ AWS DeepRacer를 활용한 인공지능 강화학습 기반의 자율주행 자동차 AI 융합경진대회 │ 팀전 1등, 개인전 2등 │ AI.SW 융합대학 주관 </div>
+    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2025.03 │ 한국인공지능융합기술학회(KAICTS) 춘계학술대회 │ 우수 발표 논문상 │ 한국인공지능융합기술학회 주관 </div>
+    <div style="font-weight: 700; font-size: 5px; text-align: left; color: #282d33;"> ● 2025.07 │ WCRC 쿠팡 물류로봇경진대회 │ 국회의원 우수상 (우재준 국회의원) │ 과학기술정보통신부 주관 </div>
+    <h3> 📚 Certification </h3>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️</h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white">
