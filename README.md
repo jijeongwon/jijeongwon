@@ -39,6 +39,7 @@
 <ol>
     • 정보처리기사 필기 <br>
     • ADsP <br>
+    • 빅데이터전문가1급 <br>
     • Microsoft Certified: AI Fundementals (AI-900) <br>
     • MOS Expert (Excel, PowerPoint) <br>
     • GTQ 그래픽기술자격 (1급, 2급) <br>
