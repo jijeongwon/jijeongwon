@@ -44,6 +44,8 @@
     • MOS Expert (Excel, PowerPoint) <br>
     • GTQ 그래픽기술자격 (1급, 2급) <br>
     • ITQ A등급 (한글엑셀, 아래한글, 파워포인트) <br>
+    • TOEIC 745점 <br>
+    • OPIc IM2등급 <br>
 </ol>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️</h2> <br> 
