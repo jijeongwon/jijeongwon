@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 건양대학교 4학년 ·  의료인공지능학과 </div>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> AI for Public Safety · Copmuter Vision · Data Analysis · Machine Learning </div>
     <div align= "left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡Research Activities and Awards</h2> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡Personal Stats</h2> 
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
     <h3>📄 Paper</h3>
 <ol>
