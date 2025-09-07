@@ -66,7 +66,7 @@
 
 </details>  
     <div align= "left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️</h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "left"> <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
@@ -77,7 +77,7 @@
           </div>
     </div>
     <div align= "left">  </div> 
-    <h2 align="left"> 📧 Email 📧 </h2>
+    <h2 align="left"> 📧 Email </h2>
 <p align="left">
   <Strong> rhtmaehcl739@naver.com </Strong>
 </p>
