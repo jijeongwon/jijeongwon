@@ -55,17 +55,16 @@
 <details>
 <summary>📚 Certification</summary>
 
-- 정보처리기사 필기  
+- 정보처리기사
 - ADsP  
 - 빅데이터전문가 1급  
 - Microsoft Certified: AI Fundamentals (AI-900)  
 - MOS Expert (Excel, PowerPoint)  
-- GTQ 그래픽기술자격 (1급, 2급)  
-- ITQ A등급 (엑셀, 한글, 파워포인트)  
-- TOEIC 745점  
-- OPIc IM2  
+- GTQ (1급, 2급)  
+- TOEIC 745, OPIc IM2 
 
 </details>
+
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️</h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "left"> <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white">
