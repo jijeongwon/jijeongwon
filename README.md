@@ -1,10 +1,12 @@
 <div align= "center"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 공공 안전을 고려한 AI 기술을 연구 중인 학부생입니다. </h2>  
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 공공 안전을 고려한 AI 기술을 연구 중인 학부생 지정원입니다. </h2>  
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 건양대학교 4학년 ·  의료인공지능학과 </div>
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> AI for Public Safety · Copmuter Vision · Data Analysis · Machine Learning </div> <br>
 <div align= "left"> 
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 AI를 활용한 공공안전·의료 분야 연구에 집중하고 있습니다.
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 데이터 분석과 머신러닝을 기반으로 사회적 가치 창출을 목표로 합니다!
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 <strong>공공안전과 의료 분야에 AI를 적용하는 연구</strong>에 집중하고 있습니다.
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안전하고 윤리적인 AI 개발을 통해 더 나은 사회를 만드는 것이 제 목표입니다!
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 학술대회 논문 발표와 AI 경진대회 경험을 통해 데이터 기반 문제 해결 능력을 쌓아왔습니다. <br>
+<br> <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 앞으로도 연구 성과를 실제 현장에 적용해 <strong>가치 있는 AI 솔루션</strong>을 만들어가고자 합니다.
 <div align= "left">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡Personal Stats</h2> 
 <details>
