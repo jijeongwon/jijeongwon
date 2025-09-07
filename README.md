@@ -62,7 +62,7 @@
 - 빅데이터전문가 1급  
 - Microsoft Certified: AI Fundamentals (AI-900)  
 - MOS Expert (Excel, PowerPoint)  
-- GTQ 1급, 2급   
+- GTQ 1, 2급   
 
 </details>  
     <div align= "left">
@@ -72,8 +72,13 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&logoColor=white">
+          <br><p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,arduino,cpp,html,linux,r,vscode" />
+  </a>
+</p>
           </div>
     </div>
     <div align= "left">  </div> 
