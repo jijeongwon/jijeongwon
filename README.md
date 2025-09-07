@@ -8,6 +8,7 @@
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡Personal Stats</h2> 
     <details>
+
 <summary>📄 Paper</summary>
 
 - **합성 데이터를 활용한 머신러닝 모델의 의료 보험료 예측 최적화** │ 1저자  
@@ -68,9 +69,9 @@
 - OPIc IM2  
 
 </details>
-    <div align= "center">
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️</h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "left"> <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white">
@@ -79,16 +80,16 @@
           <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&logoColor=white">
           </div>
     </div>
-    <div align= "center">  </div> 
-    <h2 align="center"> 📧 Email 📧 </h2>
-<p align="center">
+    <div align= "left">  </div> 
+    <h2 align="left"> 📧 Email 📧 </h2>
+<p align="left">
   <Strong> rhtmaehcl739@naver.com </Strong>
 </p>
-<p align="center">
+<p align="left">
   <Strong> jw053177@gmail.com </Strong>
 </p><br>
 
-<div align= "center">
+<div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
 ![JeongWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijeongwon&show_icons=true&theme=radical)    
