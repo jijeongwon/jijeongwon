@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=5e6ca1&height=180&text=JeongWon's%20Github👋&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 공공 안전과 윤리를 고려한 AI 기술을 연구 중인 학부생입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 공공 안전을 고려한 AI 기술을 연구 중인 학부생입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 건양대학교 4학년 ·  의료인공지능학과 </div>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> AI for Public Safety · Copmuter Vision · Data Analysis · Machine Learning </div>
     <div align= "left">
