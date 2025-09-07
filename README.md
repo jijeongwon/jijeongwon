@@ -10,7 +10,6 @@
 <div align= "left">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡Personal Stats</h2> 
 <details>
-
 <summary>📄 Paper</summary>
 
 - **합성 데이터를 활용한 머신러닝 모델의 의료 보험료 예측 최적화** │ 1저자  
@@ -22,7 +21,7 @@
 - **가상 피팅 모델 ACGPN의 입력 특징 추출 기법 비교: Otsu Mask vs. Salient Region** │ 공동 1저자  
   <sub>2025.05 │ 한국인공지능융합기술학회(KAICTS) 춘계학술대회</sub>  
 
-</details>
+</details>  
 
 
 <details>
@@ -40,7 +39,7 @@
 - **WCRC 쿠팡 물류로봇경진대회** │ 국회의원 우수상 (우재준 국회의원)  
   <sub>2025.05 │ 과학기술정보통신부 주관</sub>  
 
-</details>
+</details>  
 
 
 <details>
@@ -51,21 +50,21 @@
 - **DACON 건설공사 사고 예방 대응책 생성 AI 경진대회 (2025)** │ *public 상위 5%*  
 - **DACON 생성 AI 텍스트 판별 모델 개발 경진대회 (2024)** │ *public 상위 25%*  
 
-</details>
+</details>  
 
 
 <details>
 <summary>📚 Certification</summary>
 
-- 정보처리기사
+- TOEIC 750, OPIc IM2 
+- 정보처리기사 
 - ADsP  
 - 빅데이터전문가 1급  
 - Microsoft Certified: AI Fundamentals (AI-900)  
 - MOS Expert (Excel, PowerPoint)  
-- GTQ 
-- TOEIC 745, OPIc IM2 
+- GTQ 1급, 2급   
 
-</details>
+</details>  
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️</h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "left"> <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white">
