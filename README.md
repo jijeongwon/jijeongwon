@@ -2,6 +2,8 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 공공 안전을 고려한 AI 기술을 연구 중인 학부생입니다. </h2>  
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 건양대학교 4학년 ·  의료인공지능학과 </div>
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> AI for Public Safety · Copmuter Vision · Data Analysis · Machine Learning </div>
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 AI를 활용한 공공안전·의료 분야 연구에 집중하고 있습니다.
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 데이터 분석과 머신러닝을 기반으로 사회적 가치 창출을 목표로 합니다!
 <div align= "left">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡Personal Stats</h2> 
 <details>
