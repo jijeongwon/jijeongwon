@@ -22,7 +22,6 @@
 
 </details>
 
----
 
 <details>
 <summary>🏅 Award</summary>
@@ -41,7 +40,6 @@
 
 </details>
 
----
 
 <details>
 <summary>🏆 Competition Participation</summary>
@@ -53,7 +51,6 @@
 
 </details>
 
----
 
 <details>
 <summary>📚 Certification</summary>
