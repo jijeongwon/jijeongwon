@@ -60,7 +60,7 @@
 - 빅데이터전문가 1급  
 - Microsoft Certified: AI Fundamentals (AI-900)  
 - MOS Expert (Excel, PowerPoint)  
-- GTQ (1급, 2급)  
+- GTQ 
 - TOEIC 745, OPIc IM2 
 
 </details>
