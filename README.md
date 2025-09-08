@@ -56,7 +56,7 @@
 <details>
 <summary>📚 Certification</summary>
 
-- TOEIC 750, OPIc IM2 
+- TOEIC 855, OPIc IM2 
 - 정보처리기사 
 - ADsP  
 - 빅데이터전문가 1급  
