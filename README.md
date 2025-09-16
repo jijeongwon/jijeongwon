@@ -12,14 +12,14 @@
 <details>
 <summary>📄 Paper</summary>
 
-- **합성 데이터를 활용한 머신러닝 모델의 의료 보험료 예측 최적화** │ 1저자  
-  <sub>2024.11 │ 한국인공지능융합기술학회(KAICTS) 추계학술대회</sub>  
+- **합성 데이터를 활용한 머신러닝 모델의 의료 보험료 예측 최적화** │ 1저자  [🔗Link!](https://github.com/jijeongwon/2024.11-KAICTS_Optimizing_Healthcare_premium_Prediction_with_Synthetic_data)
+  <br> <sub>2024.11 │ 한국인공지능융합기술학회(KAICTS) 추계학술대회</sub>  
 
-- **흑백 이미지 복원을 위한 Stable Diffusion 및 GAN 기반 하이브리드 프레임워크** │ 공동 1저자  
-  <sub>2025.01 │ 한국소프트웨어공학(KCSE) 학술대회</sub>  
+- **흑백 이미지 복원을 위한 Stable Diffusion 및 GAN 기반 하이브리드 프레임워크** │ 공동 1저자  [🔗Link!](https://github.com/jijeongwon/2024.11-KAICTS_Optimizing_Healthcare_premium_Prediction_with_Synthetic_data)
+  <br> <sub>2025.01 │ 한국소프트웨어공학(KCSE) 학술대회</sub>  
 
-- **가상 피팅 모델 ACGPN의 입력 특징 추출 기법 비교: Otsu Mask vs. Salient Region** │ 공동 1저자  
-  <sub>2025.05 │ 한국인공지능융합기술학회(KAICTS) 춘계학술대회</sub>  
+- **가상 피팅 모델 ACGPN의 입력 특징 추출 기법 비교: Otsu Mask vs. Salient Region** │ 공동 1저자  [🔗Link!](https://github.com/jijeongwon/2024.11-KAICTS_Optimizing_Healthcare_premium_Prediction_with_Synthetic_data)
+  <br> <sub>2025.05 │ 한국인공지능융합기술학회(KAICTS) 춘계학술대회</sub>  
 
 </details>  
 
