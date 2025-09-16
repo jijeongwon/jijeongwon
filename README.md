@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=%20Jeongwon%20Jee's%20Github&fontSize=70&fontColor=000000" />
 <div align= "center"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 공공 안전을 고려한 AI 기술을 연구 중인 학부생 지정원입니다. </h2>  
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 건양대학교 4학년 ·  의료인공지능학과 </div>
