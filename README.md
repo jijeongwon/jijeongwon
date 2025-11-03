@@ -7,7 +7,7 @@
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 지금까지 <strong>의료 영상 분석과 HCI 연구</strong>를 중심으로, <strong>시각 데이터를 기반으로 한 표현 학습(Representation Learning)</strong>에 집중해 왔습니다.
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 예를 들어, Stable Diffusion과 GAN을 결합한 <strong>이미지 복원·색상화 연구</strong>, 그리고 <strong>공공 안전 향상을 위한 UX 기반 AI 시스템 설계</strong> 연구 등을 진행하며, 모델의 시각적 이해 능력을 개선하는 방법을 탐구했습니다. <br>
 
-<br> <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 이러한 시각 중심 연구를 바탕으로, <strong>언어 정보를 결합한 멀티모달 학습을 통해 더 풍부한 표현을 구현</strong>할 수 있는 모델을 개발하는 연구로 확장하고자 합니다.
+<br> <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 이러한 시각 중심 연구를 바탕으로, <strong>언어 정보를 결합한 멀티모달 학습을 통해 더 풍부한 표현을 구현</strong>하는 연구로 확장하고자 합니다.
 <div align= "left">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡Personal Stats</h2> 
 <details>
