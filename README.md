@@ -1,13 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:c8aef3,100:f5b7dd&height=150&section=header&text=%20Jee%20Jeong%20Won&fontSize=50&fontColor=000000" />
 <div align= "center"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 공공 안전을 고려한 AI 기술을 연구 중인 학부생 지정원입니다. </h2>  
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 다양한 AI 기술을 연구 중인 학부생 지정원입니다. </h2>  
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 건양대학교 4학년 ·  의료인공지능학과 </div>
-<div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> AI for Public Safety · Vision Language Model · Copmuter Vision · Data Analysis </div> <br>
+<div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Representation Learning · Vision Language Model · Copmuter Vision · Data Analysis </div> <br>
 <div align= "left"> 
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 <strong>공공안전 향상을 위한 HCI 연구</strong>에 집중하고 있습니다.
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안전하고 윤리적인 AI 개발을 통해 더 나은 사회를 만드는 것이 제 목표입니다.
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 학술대회 논문 발표와 AI 경진대회 경험을 통해 데이터 기반 문제 해결 능력을 쌓아왔습니다. <br>
-<br> <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 앞으로도 연구 성과를 실제 현장에 적용해 <strong>가치 있는 AI 솔루션</strong>을 만들어가고자 합니다.
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 지금까지 <strong>의료 영상 분석과 HCI 연구</strong>를 중심으로, <strong>시각 데이터를 기반으로 한 표현 학습(Representation Learning)</strong>에 집중해 왔습니다.
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 예를 들어, Stable Diffusion과 GAN을 결합한 <strong>이미지 복원·색상화 연구</strong>, 그리고 <strong>공공 안전 향상을 위한 UX 기반 AI 시스템 설계</strong> 연구 등을 진행하며, 모델의 시각적 이해 능력을 개선하는 방법을 탐구했습니다. <br>
+
+<br> <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 이러한 시각 중심 연구를 바탕으로, <strong>언어 정보를 결합한 멀티모달 학습을 통해 더 풍부한 표현과 맥락적 이해를 구현</strong>하는 연구로 확장하고자 합니다.
 <div align= "left">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡Personal Stats</h2> 
 <details>
