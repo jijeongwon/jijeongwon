@@ -2,7 +2,7 @@
 <div align= "center"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 다양한 AI 기술을 연구 중인 학부생 지정원입니다. </h2>  
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 건양대학교 4학년 ·  의료인공지능학과 </div>
-<div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Applied Computer Vision · Image Enhancement · Vision-Based Multimodal Learning · Data Preprocessing & Feature Engineering </div> <br>
+<div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Applied Computer Vision · Image Enhancement · Data Preprocessing & Feature Engineering </div> <br>
 <div align= "left"> 
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 지금까지 이미지 개선, Segmentation, 의료 영상 분석 등을 중심으로 <strong>시각 데이터를 실제 문제 해결에 적용하는 AI 시스템 개발</strong>에 관심을 두고 연구와 프로젝트를 수행해 왔습니다.
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 예를 들어, Stable Diffusion과 GAN을 결합한 <strong>이미지 복원·색상화 연구</strong>, 마스크 기반 <strong>segmentation 파이프라인 설계</strong> 연구 등을 진행하며, 모델의 시각적 이해 능력을 개선하는 방법을 탐구했습니다. <br>
